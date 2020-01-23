@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrintReciept</string>
+    <string name="print">Print</string>
+</resources>
